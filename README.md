@@ -1,2 +1,7 @@
 # Expense-Tracker-py
-A menu-driven Expense Tracker built with Python that helps users record expenses, monitor spending, calculate total expenditure, and provide feedback through an integrated rating system.
+# 1.A menu-driven Expense Tracker
+# 2.built with Python that helps users
+#    2.1 record expenses
+#    2.2 monitor spending
+#    2.3 calculate total expenditure
+#    2.4 provide feedback through an integrated rating system.
